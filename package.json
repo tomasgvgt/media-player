@@ -1,0 +1,19 @@
+{
+  "name": "media_player",
+  "version": "1.0.0",
+  "description": "Platzi media player",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "javascript",
+    "media",
+    "player"
+  ],
+  "author": "Tomas Gomez",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}
